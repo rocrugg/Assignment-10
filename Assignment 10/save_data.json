@@ -1,0 +1,1 @@
+{"users": {"1": {"username": "rocco", "password": "hello", "level": 1, "xp": 0, "gold": 50, "hp": 100, "max_hp": 100, "inventory": ["Potion"], "skills": ["Slash"], "map": "village", "main_quest": 0, "side_quest_1": false, "side_quest_2": false}}}
